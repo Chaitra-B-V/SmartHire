@@ -35,4 +35,4 @@ We provide the organization with a feature of scoring the profiles of the candid
 
 - **NLTK** : Natural Language Toolkit is a python package used in the pyreparser package for parsing resumes.
 
-More info: [SmartHire ReadMe](https://github.com/Dhanasree-Rajamani/SmartHire_Recruitment_Portal/blob/main/SmartHire1/SmartHire%20ReadMe.pdf)
+More info: [SmartHire ReadMe](https://github.com/Chaitra-B-V/SmartHire/blob/main/SmartHire%20ReadMe.pdf)
