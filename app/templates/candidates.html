@@ -1,0 +1,11 @@
+{% extends "layout.html" %} {% block content %}
+
+{% for candidate in candidates %}
+Name: {{candidate[1]}}
+Skillset: {{candidate[5][1:-1]}}
+Experience in years: {{candidate[4]}}
+Education: {{candidate[6][1:-1]}}
+Email: {{candidate[2]}}
+
+{% endfor %}
+{% endblock %}
