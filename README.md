@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="300" alt="smarthire-logo" src="https://github.com/Dhanasree-Rajamani/SmartHire_Recruitment_Portal/assets/111466424/3863b308-de03-4cac-8f69-3de6cc7fe8fc">
-</p>
+
+![image](https://github.com/Chaitra-B-V/SmartHire/assets/112594201/3bc1c0a9-5aab-41c6-857d-e527bfa75b00)
+
 
 SmartHire is an all-in-one solution for enterprise recruitment, streamlining the process and reducing costs by automating candidate shortlisting and interview scheduling. It also offers skill-based candidate scoring for efficient candidate selection.
 
